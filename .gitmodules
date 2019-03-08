@@ -1,0 +1,42 @@
+[submodule "symfony4"]
+	path = symfony4
+	url = git@github.com:trydirect/symfony4.git
+[submodule "magento"]
+	path = magento
+	url = git@github.com:trydirect/magento.git
+[submodule "mautic"]
+	path = mautic
+	url = git@github.com:trydirect/mautic.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:trydirect/nginx.git
+[submodule "wordpress"]
+	path = wordpress
+	url = git@github.com:trydirect/wordpress.git
+[submodule "laravel-formula"]
+	path = laravel-formula
+	url = git@github.com:trydirect/laravel-formula.git
+[submodule "flask-formula"]
+	path = flask-formula
+	url = git@github.com:trydirect/flask-formula.git
+[submodule "zenbership"]
+	path = zenbership
+	url = git@github.com:trydirect/zenbership.git
+[submodule "redmine4"]
+	path = redmine4
+	url = git@github.com:trydirect/redmine4.git
+[submodule "redmine3"]
+	path = redmine3
+	url = git@github.com:trydirect/redmine3.git
+[submodule "gekko"]
+	path = gekko
+	url = git@github.com:trydirect/gekko.git
+[submodule "bitrix24"]
+	path = bitrix24
+	url = git@github.com:trydirect/bitrix24.git
+[submodule "akeneo"]
+	path = akeneo
+	url = git@github.com:trydirect/akeneo.git
+[submodule "drupal"]
+	path = drupal
+	url = git@github.com:trydirect/drupal.git
