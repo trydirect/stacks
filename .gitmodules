@@ -40,3 +40,9 @@
 [submodule "drupal"]
 	path = drupal
 	url = git@github.com:trydirect/drupal.git
+[submodule "suitecrm"]
+	path = suitecrm
+	url = git@github.com:trydirect/suitecrm.git
+[submodule "symfony4-restful"]
+	path = symfony4-restful
+	url = git@github.com:trydirect/symfony4-restful.git
