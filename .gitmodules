@@ -46,3 +46,6 @@
 [submodule "symfony4-restful"]
 	path = symfony4-restful
 	url = git@github.com:trydirect/symfony4-restful.git
+[submodule "orocrm"]
+	path = orocrm
+	url = git@github.com:trydirect/orocrm.git
