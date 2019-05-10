@@ -49,3 +49,6 @@
 [submodule "orocrm"]
 	path = orocrm
 	url = git@github.com:trydirect/orocrm.git
+[submodule "orocommerce"]
+	path = orocommerce
+	url = https://github.com/trydirect/orocommerce.git
