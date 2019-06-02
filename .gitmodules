@@ -52,3 +52,15 @@
 [submodule "orocommerce"]
 	path = orocommerce
 	url = https://github.com/trydirect/orocommerce.git
+[submodule "modx"]
+	path = modx
+	url = git@github.com:trydirect/modx.git
+[submodule "pimcore"]
+	path = pimcore
+	url = git@github.com:trydirect/pimcore.git
+[submodule "opencart"]
+	path = opencart
+	url = git@github.com:trydirect/opencart.git
+[submodule "taiga"]
+	path = taiga
+	url = git@github.com:trydirect/taiga.git
