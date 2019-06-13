@@ -34,6 +34,9 @@
 [submodule "bitrix24"]
 	path = bitrix24
 	url = git@github.com:trydirect/bitrix24.git
+[submodule "django-oscar"]
+	path = django-oscar
+	url = git@github.com:trydirect/django-oscar.git
 [submodule "akeneo"]
 	path = akeneo
 	url = git@github.com:trydirect/akeneo.git
@@ -64,3 +67,30 @@
 [submodule "taiga"]
 	path = taiga
 	url = git@github.com:trydirect/taiga.git
+[submodule "orocommerce-de"]
+	path = orocommerce-de
+	url = git@github.com:trydirect/orocommerce-de.git
+[submodule "mautic-formula"]
+	path = mautic-formula
+	url = git@github.com:trydirect/mautic-formula.git
+[submodule "wagtail"]
+	path = wagtail
+	url = git@github.com:trydirect/wagtail.git
+[submodule "zulip"]
+	path = zulip
+	url = git@github.com:trydirect/zulip.git
+[submodule "odoo-formula"]
+	path = odoo-formula
+	url = git@github.com:trydirect/odoo-formula.git
+[submodule "osticket"]
+	path = osticket
+	url = git@github.com:trydirect/osticket.git
+[submodule "django-restful"]
+	path = django-restful
+	url = git@github.com:trydirect/django-restful.git
+[submodule "yii2-restful"]
+	path = yii2-restful
+	url = git@github.com:trydirect/yii2-restful.git
+[submodule "bitrix1c"]
+	path = bitrix1c
+	url = git@github.com:trydirect/bitrix1c.git
