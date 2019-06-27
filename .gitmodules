@@ -94,3 +94,21 @@
 [submodule "bitrix1c"]
 	path = bitrix1c
 	url = git@github.com:trydirect/bitrix1c.git
+[submodule "ror-restful"]
+	path = ror-restful
+	url = git@github.com:trydirect/ror-restful.git
+[submodule "registry"]
+	path = registry
+	url = git@github.com:trydirect/registry.git
+[submodule "woocomerce"]
+	path = woocomerce
+	url = git@github.com:trydirect/woocomerce.git
+[submodule "libra-dev"]
+	path = libra-dev
+	url = git@github.com:trydirect/libra-dev.git
+[submodule "sylius"]
+	path = sylius
+	url = git@github.com:trydirect/sylius.git
+[submodule "joomla"]
+	path = joomla
+	url = git@github.com:trydirect/joomla.git
